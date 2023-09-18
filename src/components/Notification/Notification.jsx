@@ -1,4 +1,5 @@
+const Notification = ({ message }) => {
+  return <p>{message}</p>;
+};
 
- export default Notification = ({ message }) => {
-  return <p>{ message}</p>
-}
+export default Notification;
