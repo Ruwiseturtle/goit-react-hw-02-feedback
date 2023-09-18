@@ -1,0 +1,11 @@
+.info-statistic{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.text-nofeedback{
+    font-size: 25px;
+    font-weight: 400;
+}
